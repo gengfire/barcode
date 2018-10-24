@@ -1,6 +1,6 @@
 # barcode
-barcode and qrcode widthout canvas
-在快应用开发过程中，发现低版本不兼容canvas，遂整合了一个不依赖canvas生成barcode的纯js方法
++ barcode and qrcode widthout canvas
++ 在快应用开发过程中，发现低版本不兼容canvas，遂整合了一个不依赖canvas生成barcode的纯js方法
 
 ## barcode
 barcode.html
